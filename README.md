@@ -1,6 +1,6 @@
 # Interpreter
 
-An imperative, expression-based language built in C++. Features a tokenizer, recursive-descent parser, and a tree-walking interpreter with an interactive REPL.
+A language built in C++. Features a tokenizer, recursive-descent parser, and a tree-walking interpreter with an interactive REPL.
 
 ## Features
 * REPL for live code execution
